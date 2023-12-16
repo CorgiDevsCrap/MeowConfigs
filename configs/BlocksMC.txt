@@ -1,4 +1,4 @@
-Rise_Version_1.5
+Rise_Version_1.6
 MainMenuTheme_LIGHTMODE
 ClientName_if it aint white it aint right
 Toggle_Interface_true
